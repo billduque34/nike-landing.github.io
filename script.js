@@ -8,7 +8,6 @@ function toggleNav() {
         isShowing = true;
         // title.style.display = 'flex';
         title.style.top = '-1000px';
-        nav.style.boxShadow = '0px 0px 8px rgb(155, 154, 154)';
     } else {
         title.style.top = '88px';
         // title.style.display = 'none';
